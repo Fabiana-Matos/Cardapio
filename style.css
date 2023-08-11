@@ -1,0 +1,43 @@
+body, html{
+    background-color: beige;
+    font-style: italic;
+    font-family: cursive;
+}
+body{ 
+    color:rgba(172, 10, 10, 0.685);
+}
+h1{
+    color: rgba(59, 2, 2, 0.685);
+}
+h2{
+    color: rgba(59, 2, 2, 0.685);
+}
+p{
+    color: black;
+    text-align: center;
+}
+b{
+    color: rgba(172, 10, 10, 0.685);
+}
+img{
+    border-radius: 50%;}
+#destaque{
+    text-align: center;
+    }
+.item{
+    width: 30%;
+   float: left;
+   padding: 1%;
+}
+#produtos{
+    text-align: center;
+    clear: both;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
+header img {
+    max-width: 150px;
+    margin-right: 10px;
+}
